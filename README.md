@@ -1,4 +1,4 @@
-# Hi there everyone!!
+# Hi there everyone 👋!!
 
 ## EXPLORING...
 
