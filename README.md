@@ -1,6 +1,6 @@
 # Hi there everyone 👋!!
 
-## EXPLORING...
+## LOVE EXPLORING...
 
 <br/>
 
@@ -49,4 +49,7 @@
 </p>
 
 </details>
+
+<br/>
+
 ### Thank You-🙏🏼
