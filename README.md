@@ -1,6 +1,6 @@
 # Hi there everyone!!
 
-## EXPLROING...
+## EXPLORING...
 
 <br/>
 
