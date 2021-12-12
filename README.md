@@ -27,7 +27,7 @@
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/IshaGup98623943) 
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@explorer88) -->
 <!-- [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://pr2tik1.github.io/) -->
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/isha-gupta-608744170)
+<!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/isha-gupta-608744170) -->
 <!-- [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ishagupta____/) -->
 [![Visits Badge](https://badges.pufler.dev/visits/qwerty-123456-ui/qwerty-123456-ui?style=for-the-badge&color=blue)](https://github.com/qwerty-123456-ui/qwerty-123456-ui)
 ![Repos Badge](https://badges.pufler.dev/repos/qwerty-123456-ui?style=for-the-badge&color=red)
